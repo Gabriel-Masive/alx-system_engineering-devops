@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -vmpaxl .
+ls -laxpmv .
