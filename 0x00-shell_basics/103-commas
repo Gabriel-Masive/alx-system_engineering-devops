@@ -1,2 +1,2 @@
-#!bin/bash
-ls -mpax
+#!/bin/bash
+ls -vmpaxl .
